@@ -1,0 +1,13 @@
+.container{
+  width: 550px;
+  height: 500px;
+  margin: 0px auto;
+}
+h1{
+  color: blue;
+  text-align: center;
+}
+img{
+  width: 500px;
+  height: auto;
+}
